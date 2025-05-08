@@ -1,7 +1,7 @@
 {
   "author": "20ml",
   "discord": "20milliliter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "MelonLoader",
   "category": [ "Quality of Life"],
   "description": "A MelonLoader Mod to hide the primary DesktopMate window from the taskbar to prevent taskbar clutter."
